@@ -1,0 +1,21 @@
+* ship shooting controls
+* sound effects
+* explosion sprite sheet
+* life bar
+* score
+* ship move/ asteroids move
+* game over screen? Restart?
+* Main menu???
+* mouse controls
+* maybe add missle that you can charge?
+* when key up, have ship slow down then stop.
+sound effects = shooting, explosion, mario game over, thrust, etc.
+optional popup that controls music. or even mute.
+* find explosion sprite sheet
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+* create explosions
+* create scoring system
+* move forward thingie
+* can shoot one way, not the other. FIX
